@@ -54,7 +54,7 @@ Ataque(Khiany, exori san)
 Cure(Khiary, exura ico, exura gran ico, exori)
 ```
 Ao executar o programa, será gerado um código em HTML com cards individuais para cada personagem, apresentando suas características, magias utilizadas e quantidadades de mana gasta para tal.
-
+<br><br>
 ## Compilando
 Todos o desenvolvimento do projeto foi realizado diretamente pela ferramente Apache NetBeans IDE 12 e para compilar é preciso seguir algum dos seguintes passos, após importar o projeto no programa em questão:
 
@@ -62,7 +62,7 @@ Todos o desenvolvimento do projeto foi realizado diretamente pela ferramente Apa
 * Clicar com o botão direito do mouse sobre o projeto → build
 
 Assim, será gerado um arquivo denominado como <TibiaCard-1.0-SNAPSHOT-jar-with-dependencies.jar> dentro da pasta TibiaCard/target do Projeto.
-
+<br><br>
 ## Executando
 Para executar é necessário o uso de três parâmetros:
 
