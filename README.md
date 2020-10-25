@@ -45,7 +45,7 @@ inicio personagem
 	sim: premium account
 fim personagem
 ```
-*As vocações e o nome do personagem devem ser escritas de acordo com as determinações originais do jogo.*
+**As vocações e o nome do personagem devem ser escritas de acordo com as determinações originais do jogo.*
 
 
 Existem duas ações que um personagem pode realizar relacionado ao uso de magias: **Ataque** e **Cure**. Para executar ambas é preciso escrever o nome de personagem já declarado e todas as magias que se deseja realizar:
@@ -83,7 +83,7 @@ java -jar /home/usuario/NetBeansProjects/TibiaCard/target/TibiaCard-1.0-SNAPSHOT
 
 E para visualizar o resultado basta abrir o arquivo em qualquer navegador :)
 
-*Para utilizar casos de teste prontos, verificar o diretório casos-teste.*
+**Para utilizar casos de teste prontos, verificar o diretório casos-teste.*
 
 
 
