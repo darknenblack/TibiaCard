@@ -1,0 +1,2 @@
+Linha 9: comentario nao fechado
+Fim da compilacao

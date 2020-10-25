@@ -1,0 +1,8 @@
+inicio personagem
+	Mariazinha: elite knight
+	237: level
+	nao: premium account
+fim personagem
+
+Ataque(Jaspion, exori)
+Cure(Mariazinha, exura gran ico)

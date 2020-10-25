@@ -1,0 +1,14 @@
+inicio personagem
+	Khiary: elite knight
+	400: level
+	sim: premium account
+fim personagem
+
+inicio personagem
+	Phiany: royal paladin
+	31: level
+	sim: premium account
+fim personagem
+
+Ataque(Khiary, exori moe ico, exori gran, exevo gran mas vis)
+Cure(Khiary, exura ico)

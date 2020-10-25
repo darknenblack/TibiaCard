@@ -1,0 +1,4 @@
+Linha 7: erro sintatico proximo a exori
+Linha 7: magia premium account nao permitida
+Linha 7: magia exori nao e de cura
+Fim da compilacao

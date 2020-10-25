@@ -1,0 +1,3 @@
+Linha 7: personagem Jaspion nao declarado
+Linha 8: magia premium account nao permitida
+Fim da compilacao
