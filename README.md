@@ -83,5 +83,7 @@ java -jar /home/usuario/NetBeansProjects/TibiaCard/target/TibiaCard-1.0-SNAPSHOT
 
 E para visualizar o resultado basta abrir o arquivo em qualquer navegador :)
 
+*Para utilizar casos de teste prontos, verificar o diretório casos-teste.
+
 
 
