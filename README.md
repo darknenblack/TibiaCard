@@ -3,7 +3,9 @@
 Trabalho 4 da disciplina Construção de Compiladores
 
 Desenvolvido por:
+
 Ariane Cristina Gomes - 743507
+
 Sabrina da Silva Miranda- 743595
 
 ## O projeto
