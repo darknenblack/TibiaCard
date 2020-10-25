@@ -24,7 +24,8 @@ Esse projeto teve como objetivo desenvolver um compilador para a linguagem decla
 Esses cards apresentam individualmente, as características, magias utilizadas e quantidades de mana gasta.
 
 ## A Linguagem TibiaCard
-Para utilizar a linguagem é preciso, obrigatóriamente declarar um personagem com suas características, do seguinte modo:
+Para utilizar a linguagem é preciso, obrigatóriamente declarar um personagem com suas características. 
+É possível declarar tantos personagens quanto se quiser, cada qual dentro de um bloco inicio personagem-fim personagem, do seguinte modo:
 
 ```
 inicio personagem
@@ -42,9 +43,8 @@ inicio personagem
 	sim: premium account
 fim personagem
 ```
-As vocações e o nome do personagem devem ser escritas de acordo com as determinações originais do jogo.
+*As vocações e o nome do personagem devem ser escritas de acordo com as determinações originais do jogo.
 
-É possível declarar tantos personagens quanto se quiser, cada qual dentro de um bloco inicio personagem-fim personagem.
 
 Existem duas ações que um personagem pode realizar relacionado ao uso de magias: **Ataque** e **Cure**. Para executar ambas é preciso escrever o nome de personagem já declarado e todas as magias que se deseja realizar:
 ```
@@ -52,3 +52,23 @@ Ataque(Khiany, exori san)
 Cure(Khiary, exura ico, exura gran ico, exori)
 ```
 Ao executar o programa, será gerado um código em HTML com cards individuais para cada personagem, apresentando suas características, magias utilizadas e quantidadades de mana gasta para tal.
+
+## Compilando
+Todos o desenvolvimento do projeto foi realizado diretamente pela ferramente Apache NetBeans IDE 12 e para compilar é preciso seguir algum dos seguintes passos, após importar o projeto no programa em questão:
+
+* Clicar no ícone com o martelo
+* Clicar com o botão direito do mouse sobre o projeto → build
+
+Assim, será gerado um arquivo denominado como <TibiaCard-1.0-SNAPSHOT-jar-with-dependencies.jar> dentro da pasta TibiaCard/target do Projeto.
+
+## Executando
+Para executar é necessário o uso de três parâmetros:
+
+1.  caminho absoluto do arquivo do compilador
+2.  caminho absoluto do arquivo de teste em .txt
+3.  caminho absoluto para um arquivo de saída .html
+
+Tendo esses parâmetros, é preciso executar o comando **jar -jar** através de um terminal, desse modo:
+
+
+
