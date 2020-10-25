@@ -1,0 +1,7 @@
+inicio personagem
+	Mariazinha: elite knight
+	237: level
+	nao: premium account
+fim personagem
+
+Cure(Mariazinha, exura gran ico, exori)

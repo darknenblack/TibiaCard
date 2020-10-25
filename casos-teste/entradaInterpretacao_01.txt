@@ -1,0 +1,24 @@
+inicio personagem
+	Khiary: elite knight
+	400: level
+	sim: premium account
+fim personagem
+
+inicio personagem
+	Carlinho: royal paladin
+	31: level
+	sim: premium account
+fim personagem
+
+inicio personagem
+	Luks: master sorcerer
+	38: level
+	nao: premium account
+fim personagem
+
+Ataque(Khiary, exori gran ico)
+Cure(Khiary, exura ico)
+
+Cure(Carlinho,exura gran san, utura, utura gran, exura san, exura san)
+
+Ataque(Luks, exevo flam hur, exevo gran vis lux, exevo gran mas vis)
