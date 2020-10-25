@@ -24,7 +24,7 @@ Esse projeto teve como objetivo desenvolver um compilador para a linguagem decla
 Esses cards apresentam individualmente, as características, magias utilizadas e quantidades de mana gasta.
 <br><br><br>
 <img src=/imagens/exemplo_cards.png>
-
+<br><br>
 ## A Linguagem TibiaCard
 Para utilizar a linguagem é preciso, obrigatóriamente declarar um personagem com suas características. 
 É possível declarar tantos personagens quanto se quiser, cada qual dentro de um bloco inicio personagem-fim personagem, do seguinte modo:
