@@ -51,12 +51,12 @@ fim personagem
 Existem duas ações que um personagem pode realizar relacionado ao uso de magias: **Ataque** e **Cure**. Para executar ambas é preciso escrever o nome de personagem já declarado e todas as magias que se deseja realizar:
 ```
 Ataque(Khiany, exori san)
-Cure(Khiary, exura ico, exura gran ico, exori)
+Cure(Khiary, exura ico, exura gran ico)
 ```
 Ao executar o programa, será gerado um código em HTML com cards individuais para cada personagem, apresentando suas características, magias utilizadas e quantidadades de mana gasta para tal.
 <br><br>
 ## Compilando
-Todos o desenvolvimento do projeto foi realizado diretamente pela ferramente Apache NetBeans IDE 12 e para compilar é preciso seguir algum dos seguintes passos, após importar o projeto no programa em questão:
+Todo o desenvolvimento do projeto foi realizado diretamente pela ferramente Apache NetBeans IDE 12 e para compilar é preciso seguir algum dos seguintes passos, após importar o projeto no programa em questão:
 
 * Clicar no ícone com o martelo (F11) <img src=imagens/build.png>
 * Clicar com o botão direito do mouse sobre o projeto → build
@@ -70,7 +70,7 @@ Para executar é necessário o uso de três parâmetros:
 2.  caminho absoluto do arquivo de teste em .txt
 3.  caminho absoluto para um arquivo de saída .html
 
-Tendo esses parâmetros, é preciso executar o comando **jar -jar** através de um terminal, desse modo:
+Tendo esses parâmetros, é preciso executar o comando **java -jar** através de um terminal, desse modo:
 ```
 java -jar /home/usuario/NetBeansProjects/TibiaCard/target/TibiaCard-1.0-SNAPSHOT-jar-with-dependencies.jar /caminho_absoluto_arquivo_de_entrada.txt* /caminho_absoluto_arquivo_de_saida.html
 
