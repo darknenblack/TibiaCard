@@ -23,7 +23,7 @@ Trabalho 4 da disciplina Construção de Compiladores
 Esse projeto teve como objetivo desenvolver um compilador para a linguagem declarativa TibiaCard, inventada pelas alunas, que gera cards em HTML de personagens do jogo Tibia. 
 Esses cards apresentam individualmente, as características, magias utilizadas e quantidades de mana gasta.
 <br><br><br>
-<img src=/imagens/exemplo_cards.png>
+<img src=/imagens/exemplo_readme.png>
 <br><br>
 ## A Linguagem TibiaCard
 Para utilizar a linguagem é preciso, obrigatóriamente declarar um personagem com suas características. 
