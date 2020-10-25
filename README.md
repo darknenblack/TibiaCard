@@ -31,7 +31,7 @@ Para utilizar a linguagem é preciso, obrigatóriamente declarar um personagem c
 
 ```
 inicio personagem
-	[string-NomedoPersonagem]: [string-vocação]
+	[string-NomedoPersonagem]: [string-vocação]*
 	[int]: level
 	[boolean]: premium account
 fim personagem
@@ -72,7 +72,7 @@ Para executar é necessário o uso de três parâmetros:
 
 Tendo esses parâmetros, é preciso executar o comando **jar -jar** através de um terminal, desse modo:
 ```
-java -jar /home/usuario/NetBeansProjects/TibiaCard/target/TibiaCard-1.0-SNAPSHOT-jar-with-dependencies.jar /caminho_absoluto_arquivo_de_entrada.txt /caminho_absoluto_arquivo_de_saida.html
+java -jar /home/usuario/NetBeansProjects/TibiaCard/target/TibiaCard-1.0-SNAPSHOT-jar-with-dependencies.jar /caminho_absoluto_arquivo_de_entrada.txt* /caminho_absoluto_arquivo_de_saida.html
 
 ```
 Exemplo:
