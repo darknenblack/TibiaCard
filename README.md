@@ -72,12 +72,12 @@ Para executar é necessário o uso de três parâmetros:
 
 Tendo esses parâmetros, é preciso executar o comando **jar -jar** através de um terminal, desse modo:
 ```
-java -jar TibiaCard-1.0-SNAPSHOT-jar-with-dependencies.jar /caminho_absoluto_arquivo_de_entrada.txt /caminho_absoluto_arquivo_de_saida.html
+java -jar /home/usuario/NetBeansProjects/TibiaCard/target/TibiaCard-1.0-SNAPSHOT-jar-with-dependencies.jar /caminho_absoluto_arquivo_de_entrada.txt /caminho_absoluto_arquivo_de_saida.html
 
 ```
 Exemplo:
 ```
-java -jar TibiaCard-1.0-SNAPSHOT-jar-with-dependencies.jar /home/usuario/NetBeansProjects/casos-teste/entradaInterpretacao_01.txt /home/usuario/NetBeansProjects/casos-teste/saidaInterpretacao.html
+java -jar /home/usuario/NetBeansProjects/TibiaCard/target/TibiaCard-1.0-SNAPSHOT-jar-with-dependencies.jar /home/usuario/NetBeansProjects/casos-teste/entradaInterpretacao_01.txt /home/usuario/NetBeansProjects/casos-teste/saidaInterpretacao.html
 
 ```
 
