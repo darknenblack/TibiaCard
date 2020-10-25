@@ -24,7 +24,17 @@ Esse projeto teve como objetivo desenvolver um compilador para a linguagem decla
 Esses cards apresentam individualmente, as características, magias utilizadas e quantidades de mana gasta.
 
 ## A Linguagem TibiaCard
-Para escrever na linguagem é preciso declarar um personagem com suas características:
+Para utilizar a linguagem é preciso, obrigatóriamente declarar um personagem com suas características, do seguinte modo:
+
+```
+inicio personagem
+	[string-NomedoPersonagem]: [string-vocação]
+	[int]: level
+	[boolean]: premium account
+fim personagem
+```
+
+Exemplo:
 ```
 inicio personagem
 	Khiary: elite knight
@@ -32,6 +42,7 @@ inicio personagem
 	sim: premium account
 fim personagem
 ```
+As vocações e o nome do personagem devem ser escritas de acordo com as determinações originais do jogo.
 
 É possível declarar tantos personagens quanto se quiser, cada qual dentro de um bloco inicio personagem-fim personagem.
 
