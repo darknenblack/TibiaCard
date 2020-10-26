@@ -47,13 +47,17 @@ fim personagem
 ```
 **As vocações e o nome do personagem devem ser escritas de acordo com as determinações originais do jogo.*
 
-
 Existem duas ações que um personagem pode realizar relacionado ao uso de magias: **Ataque** e **Cure**. Para executar ambas é preciso escrever o nome de personagem já declarado e todas as magias que se deseja realizar:
 ```
 Ataque(Khiany, exori san)
 Cure(Khiary, exura ico, exura gran ico)
 ```
 Ao executar o programa, será gerado um código em HTML com cards individuais para cada personagem, apresentando suas características, magias utilizadas e quantidadades de mana gasta para tal.
+
+
+### Vídeo demonstrativo da Linguagem
+[Link do vídeo](https://youtu.be/IXJk76d7jb8)
+
 <br><br>
 ## Compilando
 Todo o desenvolvimento do projeto foi realizado diretamente pela ferramente Apache NetBeans IDE 12 e para compilar é preciso seguir algum dos seguintes passos, após importar o projeto no programa em questão:
@@ -84,6 +88,4 @@ java -jar /home/usuario/NetBeansProjects/TibiaCard/target/TibiaCard-1.0-SNAPSHOT
 E para visualizar o resultado basta abrir o arquivo em qualquer navegador :)
 
 **Para utilizar casos de teste prontos, verificar o diretório casos-teste.*
-
-
 
