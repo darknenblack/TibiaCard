@@ -54,9 +54,9 @@ Cure(Khiary, exura ico, exura gran ico)
 ```
 Ao executar o programa, será gerado um código em HTML com cards individuais para cada personagem, apresentando suas características, magias utilizadas e quantidadades de mana gasta para tal.
 
-<br>
-# Vídeo demonstrativo da Linguagem
-[![Link do vídeo](https://youtu.be/IXJk76d7jb8)]
+
+### Vídeo demonstrativo da Linguagem
+[Link do vídeo](https://youtu.be/IXJk76d7jb8)
 
 <br><br>
 ## Compilando
