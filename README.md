@@ -85,5 +85,7 @@ E para visualizar o resultado basta abrir o arquivo em qualquer navegador :)
 
 **Para utilizar casos de teste prontos, verificar o diretório casos-teste.*
 
+## Vídeo demonstrativo da Linguagem
+[[Link do vídeo](https://youtu.be/IXJk76d7jb8)]
 
 
