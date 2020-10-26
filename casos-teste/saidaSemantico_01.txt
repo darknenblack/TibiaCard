@@ -1,2 +1,0 @@
-Linha 13: personagem Khiary ja declarado anteriormente
-Fim da compilacao

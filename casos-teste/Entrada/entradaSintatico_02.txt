@@ -1,0 +1,17 @@
+{Cria dois personagens e atribui magias para um deles}
+
+inicio personagem
+    Khiary: master sorcerer 
+    30: level 
+    sim : premium account
+fim personagem
+     
+{Erro Sintatico de comentario
+inicio personagem
+    Clara: royal paladinn
+    30: level 
+    sim : premium account 
+fim personagem
+
+Ataque(Khiary, exori gran)
+Lute(Khiary)
