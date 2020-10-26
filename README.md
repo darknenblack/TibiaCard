@@ -58,7 +58,7 @@ Ao executar o programa, será gerado um código em HTML com cards individuais pa
 ### Vídeo demonstrativo da Linguagem
 [Link do vídeo](https://youtu.be/IXJk76d7jb8)
 
-<br><br>
+
 ## Compilando
 Todo o desenvolvimento do projeto foi realizado diretamente pela ferramente Apache NetBeans IDE 12 e para compilar é preciso seguir algum dos seguintes passos, após importar o projeto no programa em questão:
 
